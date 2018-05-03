@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/galileo/home/userinternal/stagliav/field-decomposition-island/src/fdi/data.h
+array
+-
+
+/galileo/home/userinternal/stagliav/field-decomposition-island/src/fdi/fdi.cpp
+fdi.h
+/galileo/home/userinternal/stagliav/field-decomposition-island/src/fdi/fdi.h
+sstream
+-
+
+/galileo/home/userinternal/stagliav/field-decomposition-island/src/fdi/fdi.h
+array
+-
+vector
+-
+unordered_map
+-
+iostream
+-
+iterator
+-
+memory
+-
+data.h
+/galileo/home/userinternal/stagliav/field-decomposition-island/src/fdi/data.h
+

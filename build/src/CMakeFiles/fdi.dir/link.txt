@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfdi.a  CMakeFiles/fdi.dir/fdi/fdi.cpp.o
+/usr/bin/ranlib libfdi.a
